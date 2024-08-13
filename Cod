@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html">
+<head>
+  <meta charset="UTF-8">
+  <title>Top 10 Jogos Metroidvania</title>
+  <link rel="stylesheet" href="projeto_01.css">
+
+</head>
+<body>
+<div id="interface">
+  <h1>Jogos Metroidvania</h1>
+  <section>
+    <ol>
+  <h2><a href="https://www.youtube.com/watch?v=RvGaSPTcTxc" target="_blank">Dead Cells</h2></a>
+
+    <h3>Sobre</h3>
+    <dl><b>Dead Cells</b> é um jogo eletrônico roguelike-metroidvania desenvolvido e publicado pela Motion Twin. Após cerca de um ano de acesso antecipado, Dead Cells foi lançado para Microsoft Windows, macOS, Linux, Nintendo Switch, PlayStation 4 e Xbox One em 7 de agosto de 2018. Wikipédia</dl>
+    <dl><b>Plataformas:</b> Android, Nintendo Switch, PlayStation 4, Xbox One, macOS, Linux, Xbox Cloud Gaming, Microsoft Windows, Mac OS</dl>
+    <dl><b>Gêneros:</b> Roguelike, Metroidvania, Jogo eletrônico independente, Jogo eletrônico de luta, Jogo eletrônico de tiro, Adventure</dl>
+    <dl><b>Desenvolvedores:</b> Motion-Twin, Motion Twin Scop ARL</dl>
+    <dl><b>Projetista:</b> Sebastien Bénard</dl>
+    <dl><b>Data de lançamento inicial:</b> 10 de maio de 2017</dl>
+    <dl><b>Prêmios: </b> Game Award para MelhorJogo de Ação</dl>
+    <dl><b>Modo:</b> Jogo eletrônico para um jogador</dl>
+      <figure class="foto-legenda">
+        <img src="WALLPAPERS/dead-cells_3840x2160_xtrafondos.com.jpg"/>
+        <figcaption>
+          <h3>Dead Cells</h3>
+          <p>Jogo de aventura metroidvania</p>
+        </figcaption>
+      </figure>
+  </ol>
+    <ol>
+<h2><br><a href="https://www.youtube.com/watch?v=UAO2urG23S4" target="_blank">Hollow Knight</h2></a>
+
+  <h3>Sobre</h3>
+
+    <dl><b>Hollow Knight</b>é um game independente de aventura para PC (Windows), Mac e Linux pelo Steam, PlayStation 4 (PS4), Xbox One e Nintendo Switch desenvolvido pela produtora Team Cherry através de uma campanha de financiamento coletivo no site Kickstarter.</dl>
+
+    <dl><b>Hollow Knight</b> | Software - TechTudohttps://www.techtudo.com.br › tudo-sobre › hollow-knight</dl>
+    <dl><b>Publicado por:</b> Team Cherry, Popeach</dl>
+    <dl><b>Designers: </b> Pellen, Ari Gibson</dl>
+    <dl><b>Desenvolvedor:</b> Team Cherry</dl>
+      <figure class="foto-legenda">
+          <img src="WALLPAPERS/806255.jpg"/>
+        <figcaption>
+        <h3>Hollow Knight </h3>
+        <p>Jogo de aventura metroidvania</p>
+        </figcaption>
+      </figure>
+  </ol>
+    <ol>
+      <h2><a href="https://www.youtube.com/watch?v=cklw-Yu3moE"target="_blank"><br>Ori and the blind forest</h2></a>
+
+      <h3>Sobre</h3>
+
+      <dl><b>Ori and the Blind Forest</b> é um jogo eletrônico de aventura em plataforma desenvolvido pela Moon Studios e publicado pela Microsoft Studios para Xbox One e Windows 10 no dia 11 de março de 2015. No dia 27 de Setembro de 2019, também foi lançado para o Nintendo Switch. Wikipédia</dl>
+      <dl><b>Plataformas:</b> Nintendo Switch, Xbox One, Microsoft Windows</dl>
+      <dl><b>Data de lançamento inicial:</b> 11 de março de 2015</dl>
+      <dl><b>Prêmios:</b> BAFTA Video Games Award: Realização Artística, The Game Award para Melhor Direção de Arte</dl>
+      <dl><b>Desenvolvedor:</b> Moon Studios</dl>
+      <dl><b>Série:</b> Ori</dl>
+      <dl><b>Gênero:</b> Metroidvania</dl>
+      <dl><b>Estúdio:</b> Xbox Game Studios</dl>
+      <figure class="foto-legenda">
+          <img src="WALLPAPERS/581580.jpg"/>
+        <figcaption>
+          <h3>Ori and the blind forest</h3>
+          <p>Jogo de aventura metroidvania</p>
+        </figcaption>
+      </figure>
+    </ol>
+    <footer id="rodape">
+      <p>Copyright 2023 - by Jardel Vieira <br/>
+        <a href="https://br.linkedin.com/in/jardel-vieira-998371165" target="_blank"> Linkedin </a>|
+        <a href="https://github.com/Jardel-Vieira" target="_blank"> GitHub</a></p>
+    </footer>
+  </section>
+</div>
+</body>
+ </html>
